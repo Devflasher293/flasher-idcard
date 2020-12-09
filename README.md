@@ -41,7 +41,7 @@ ESX.RegisterUsableItem('idcard', function(source)
  end)
 ```
 
-- And this on the very first line in client.lua
+- And this on the very first line in jsfour-legitimation/client.lua
 
 ```			
 ESX = nil
