@@ -12,7 +12,7 @@ You are more than welcome to change what you want in the script, but you may NOT
 ####
 - Script to get an id-card as an item from a desired location. 
 - To make the item usable you need to add some code to jsfour-legtimiation. 
-
+- Add ```idcard``` as an item in your database
 
 - Locate to (jsfour-legitimation/client.lua) and add this
 ```		
