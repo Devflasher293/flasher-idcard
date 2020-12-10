@@ -5,7 +5,6 @@ You are more than welcome to change what you want in the script, but you may NOT
 
 ## Requirements
 * [es_extended]
-* [mythic_notify]
 * [jsfour-legitimation](https://github.com/jonassvensson4/jsfour-legitimation)
 
 
